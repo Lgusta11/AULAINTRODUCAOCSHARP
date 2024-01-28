@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\aluracsharp\obj\Debug\net8.0\aluracsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\aluracsharp\obj\Debug\net8.0\aluracsharp.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\aluracsharp\obj\Debug\net8.0\aluracsharp.AssemblyInfo.cs
+C:\Users\Admin\Desktop\aluracsharp\obj\Debug\net8.0\aluracsharp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\aluracsharp\bin\Debug\net8.0\aluracsharp.exe
+C:\Users\Admin\Desktop\aluracsharp\bin\Debug\net8.0\aluracsharp.deps.json
+C:\Users\Admin\Desktop\aluracsharp\bin\Debug\net8.0\aluracsharp.runtimeconfig.json
+C:\Users\Admin\Desktop\aluracsharp\bin\Debug\net8.0\aluracsharp.dll
+C:\Users\Admin\Desktop\aluracsharp\bin\Debug\net8.0\aluracsharp.pdb
+C:\Users\Admin\Desktop\aluracsharp\obj\Debug\net8.0\aluracsharp.dll
+C:\Users\Admin\Desktop\aluracsharp\obj\Debug\net8.0\refint\aluracsharp.dll
+C:\Users\Admin\Desktop\aluracsharp\obj\Debug\net8.0\aluracsharp.pdb
+C:\Users\Admin\Desktop\aluracsharp\obj\Debug\net8.0\aluracsharp.genruntimeconfig.cache
+C:\Users\Admin\Desktop\aluracsharp\obj\Debug\net8.0\ref\aluracsharp.dll
